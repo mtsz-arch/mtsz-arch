@@ -1,7 +1,7 @@
 # 👋 Cześć, jestem [Twoje Imię]
 
-🎓 Student kierunku [np. Informatyka / Data Science / Automatyka] na [Twoja uczelnia].
-* 💼 LinkedIn: [link]
+🎓 Student kierunku Analiza Danych na Uniwersytecie Łódzkim.
+* 💼 LinkedIn: [https://www.linkedin.com/in/mateusz-be%C5%9Bka-1a74753b9/]
 
 ---
 
