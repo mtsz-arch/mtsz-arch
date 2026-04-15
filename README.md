@@ -5,6 +5,18 @@
 
 ---
 
+
+## 📂 Projekty
+
+| Nazwa projektu | Opis                 | Technologie          | Repozytorium | Czego się nauczyłem           |
+| -------------- | -------------------- | -------------------- | ------------ | ----------------------------- |
+| [Projekt 1]    | Krótki opis projektu | [np. React, Node.js] | [link]       | [np. praca z API, komponenty] |
+| [Projekt 2]    | Krótki opis projektu | [np. Python, Flask]  | [link]       | [np. backend, routing]        |
+| [Projekt 3]    | Krótki opis projektu | [np. SQL, Pandas]    | [link]       | [np. analiza danych]          |
+
+---
+
+
 ## 🛠️ Technologie
 
 **Podstawy:**
@@ -25,18 +37,6 @@
 * Git, GitHub, Docker (jeśli używasz)
 
 ---
-
-## 📂 Projekty
-
-| Nazwa projektu | Opis                 | Technologie          | Repozytorium | Czego się nauczyłem           |
-| -------------- | -------------------- | -------------------- | ------------ | ----------------------------- |
-| [Projekt 1]    | Krótki opis projektu | [np. React, Node.js] | [link]       | [np. praca z API, komponenty] |
-| [Projekt 2]    | Krótki opis projektu | [np. Python, Flask]  | [link]       | [np. backend, routing]        |
-| [Projekt 3]    | Krótki opis projektu | [np. SQL, Pandas]    | [link]       | [np. analiza danych]          |
-
----
-
-
 
 
 
