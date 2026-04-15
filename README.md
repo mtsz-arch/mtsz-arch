@@ -1,4 +1,4 @@
-# 👋 Cześć, jestem [Twoje Imię]
+# Mateusz Beśka
 
 🎓 Student kierunku Analiza Danych na Uniwersytecie Łódzkim.
 * 💼 [LinkedIn](https://www.linkedin.com/in/mateusz-be%C5%9Bka-1a74753b9/)
@@ -26,7 +26,7 @@
 
 ---
 
-## 📂 Projekty studenckie
+## 📂 Projekty
 
 | Nazwa projektu | Opis                 | Technologie          | Repozytorium | Czego się nauczyłem           |
 | -------------- | -------------------- | -------------------- | ------------ | ----------------------------- |
