@@ -10,10 +10,10 @@
 
 | Nazwa projektu | Opis                 | Technologie          | Repozytorium | Czego się nauczyłem           | Status |
 | -------------- | -------------------- | -------------------- | ------------ | ----------------------------- |--------|
-| [Business Performance Analytics Pipeline]    | Projekt kompleksowej analizy danych z wykorzystaniem Pythona (Pandas) i Power BI. Przeprowadzono czyszczenie danych, inżynierię funkcji i zbudowano interaktywny panel analizujący sprzedaż, rentowność i wydajność logistyki. | [Excel, Python(Pandas), PowerQuerry, PowerBI] | [link]       | [np. praca z API, komponenty] | skończony|
+| [Business Performance Analytics Pipeline]    | Projekt kompleksowej analizy danych z wykorzystaniem Pythona (Pandas) i Power BI. Przeprowadzono czyszczenie danych, inżynierię funkcji i zbudowano interaktywny panel analizujący sprzedaż, rentowność i wydajność logistyki. | [Excel, Python(Pandas), PowerQuerry, PowerBI] | [link]       | [proces ETL, Feature Engineering, ] | skończony|
 | [Projekt 2]    | Krótki opis projektu | [Excel, PowerBI]  | [link]       | [np. backend, routing]        | skończony |
 | [Projekt 3]    | Krótki opis projektu | [np. SQL, Pandas]    | [link]       | [np. analiza danych]          | skończony |
-| [E-Commerce Sales Analytics Dashboard]    | Kompletny projekt analizy danych e-commerce z wykorzystaniem SQL i Power BI (3 interaktywne dashboards)na datasecie 500k transakcji. | [Oracle SQL Developer, PowerBI]   | [link]       | []      | w trakcie |
+| [E-Commerce Sales Analytics Dashboard]    | Kompletny projekt analizy danych e-commerce z wykorzystaniem SQL i Power BI (3 interaktywne dashboards)na datasecie 500k transakcji. | [Oracle SQL Developer, PowerBI]   | [link]       | [segmentacja RFM, analiza lifetime value (CLV) ]      | w trakcie |
 
 ---
 
