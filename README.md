@@ -10,7 +10,7 @@
 
 | Nazwa projektu | Opis                 | Technologie          | Repozytorium | Czego się nauczyłem           |
 | -------------- | -------------------- | -------------------- | ------------ | ----------------------------- |
-| [Projekt 1]    | Krótki opis projektu | [np. React, Node.js] | [link]       | [np. praca z API, komponenty] |
+| [Projekt 1]    | Projekt kompleksowej analizy danych z wykorzystaniem Pythona (Pandas) i Power BI. Przeprowadzono czyszczenie danych, inżynierię funkcji i zbudowano interaktywny panel analizujący sprzedaż, rentowność i wydajność logistyki. | [np. React, Node.js] | [link]       | [np. praca z API, komponenty] |
 | [Projekt 2]    | Krótki opis projektu | [np. Python, Flask]  | [link]       | [np. backend, routing]        |
 | [Projekt 3]    | Krótki opis projektu | [np. SQL, Pandas]    | [link]       | [np. analiza danych]          |
 
