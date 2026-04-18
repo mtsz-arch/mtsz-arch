@@ -13,7 +13,7 @@
 | [Analiza sprzedaży i rentowności firmy e-commerce](https://github.com/mtsz-arch/superstrore_project)    | Projekt kompleksowej analizy danych z wykorzystaniem Pythona (Pandas) i Power BI. Przeprowadzono czyszczenie danych, inżynierię funkcji i zbudowano interaktywny panel analizujący sprzedaż, rentowność i wydajność. | [Excel, Python(Pandas), PowerQuerry, PowerBI] | [proces ETL, Feature Engineering, KPI] | skończony|
 | [Wykrywanie botów w komentarzach Reddit (Machine Learning) ](https://github.com/mtsz-arch/bot-detection-project)    | Krótki opis projektu | [Excel, PowerBI]  | [np. backend, routing]        | skończony |
 | [Projekt 3]    | Krótki opis projektu | [np. SQL, Pandas]   | [np. analiza danych]          | skończony |
-| [E-Commerce Sales Analytics Dashboard](https://github.com/mtsz-arch/e-commerce-projekt)    | Kompletny projekt analizy danych e-commerce z wykorzystaniem SQL i Power BI (3 interaktywne dashboards)na datasecie 500k transakcji. | [Oracle SQL Developer, PowerBI] | [segmentacja RFM, analiza lifetime value (CLV) ]      | w trakcie |
+| [E-Commerce Sales Analytics Dashboard](https://github.com/mtsz-arch/e-commerce-projekt)    | Kompletny projekt analizy danych e-commerce z wykorzystaniem SQL i Power BI na datasecie 500k transakcji. | [Oracle SQL Developer, PowerBI] | [segmentacja RFM, analiza lifetime value (CLV) ]      | w trakcie |
 
 ---
 
