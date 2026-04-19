@@ -21,30 +21,27 @@
 
 **Podstawy:**
 
-**Języki programowania:**
+## Umiejętności techniczne
 
-*Python (analiza danych, ML)
-*SQL (zapytania, transformacje danych)
+### Języki programowania:
+- Python (analiza danych, ML)  
+- SQL (zapytania, transformacje danych)  
 
-**Analiza danych & Machine Learning:**
+### Analiza danych & Machine Learning:
+- Pandas, NumPy (przetwarzanie i analiza danych)  
+- scikit-learn (modele ML: klasyfikacja, regresja)  
+- Feature Engineering, modelowanie predykcyjne  
 
-*Pandas, NumPy (przetwarzanie i analiza danych)
-*scikit-learn (modele ML: klasyfikacja, regresja)
-*Feature Engineering, modelowanie predykcyjne
+### Wizualizacja danych:
+- Matplotlib, Seaborn  
+- Power BI (dashboardy, raportowanie KPI)  
 
-**Wizualizacja danych:**
+### Bazy danych:
+- Oracle SQL (zapytania, analiza danych)  
 
-*Matplotlib, Seaborn
-*Power BI (dashboardy, raportowanie KPI)
-
-**Bazy danych:**
-
-*Oracle SQL (zapytania, analiza danych)
-
-**Narzędzia & ETL:**
-
-*Excel (analiza, czyszczenie danych)
-*Power Query (ETL, transformacje danych)
+### Narzędzia & ETL:
+- Excel (analiza, czyszczenie danych)  
+- Power Query (ETL, transformacje danych)  
 ---
 
 
