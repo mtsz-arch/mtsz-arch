@@ -21,21 +21,30 @@
 
 **Podstawy:**
 
-* HTML, CSS, JavaScript
-* Python / Java / C++
+Języki programowania:
 
-**Frameworki / biblioteki:**
+Python (analiza danych, ML)
+SQL (zapytania, transformacje danych)
 
-* React / Flask / Spring (jeśli znasz)
+Analiza danych & Machine Learning:
 
-**Bazy danych:**
+Pandas, NumPy (przetwarzanie i analiza danych)
+scikit-learn (modele ML: klasyfikacja, regresja)
+Feature Engineering, modelowanie predykcyjne
 
-* MySQL / PostgreSQL / MongoDB
+Wizualizacja danych:
 
-**Narzędzia:**
+Matplotlib, Seaborn
+Power BI (dashboardy, raportowanie KPI)
 
-* Git, GitHub, Docker (jeśli używasz)
+Bazy danych:
 
+Oracle SQL (zapytania, analiza danych)
+
+Narzędzia & ETL:
+
+Excel (analiza, czyszczenie danych)
+Power Query (ETL, transformacje danych)
 ---
 
 
