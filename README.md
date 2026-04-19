@@ -21,30 +21,30 @@
 
 **Podstawy:**
 
-Języki programowania:
+**Języki programowania:**
 
-Python (analiza danych, ML)
-SQL (zapytania, transformacje danych)
+*Python (analiza danych, ML)
+*SQL (zapytania, transformacje danych)
 
-Analiza danych & Machine Learning:
+**Analiza danych & Machine Learning:**
 
-Pandas, NumPy (przetwarzanie i analiza danych)
-scikit-learn (modele ML: klasyfikacja, regresja)
-Feature Engineering, modelowanie predykcyjne
+*Pandas, NumPy (przetwarzanie i analiza danych)
+*scikit-learn (modele ML: klasyfikacja, regresja)
+*Feature Engineering, modelowanie predykcyjne
 
-Wizualizacja danych:
+**Wizualizacja danych:**
 
-Matplotlib, Seaborn
-Power BI (dashboardy, raportowanie KPI)
+*Matplotlib, Seaborn
+*Power BI (dashboardy, raportowanie KPI)
 
-Bazy danych:
+**Bazy danych:**
 
-Oracle SQL (zapytania, analiza danych)
+*Oracle SQL (zapytania, analiza danych)
 
-Narzędzia & ETL:
+**Narzędzia & ETL:**
 
-Excel (analiza, czyszczenie danych)
-Power Query (ETL, transformacje danych)
+*Excel (analiza, czyszczenie danych)
+*Power Query (ETL, transformacje danych)
 ---
 
 
